@@ -1,0 +1,8 @@
+.iconSwitch {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.material-symbols-outlined {
+  cursor: pointer;  
+}
